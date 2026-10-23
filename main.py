@@ -1149,7 +1149,7 @@ def start_help(message):
         "• *Document* (original file)\n"
         "• *Audio (MP3)*\n\n"
         f"Upload limit: *{_fmt_bytes(MAX_SEND_BYTES)}*\n\n"
-        "_Powered by_ [Daryl Dixon](https://t.me/louisxd)",
+        "_Powered by_ [Daryl Dixon](https://t.me/louisxd)\n\nSupports YouTube, Instagram, TikTok, X, Reddit and hundreds of other websites.",
         parse_mode="MARKDOWN",
         disable_web_page_preview=True,
     )
