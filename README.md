@@ -99,7 +99,7 @@ Most “download bots” are either public (unstable / rate-limited / banned), o
 Run on your Ubuntu server (SSH):
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Avazbek22/VideoDownloaderBot/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/lowperf/VideoDownloaderBot/main/install.sh)
 ```
 
 The installer will:
